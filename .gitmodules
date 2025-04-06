@@ -1,0 +1,3 @@
+[submodule "AdvantageKit"]
+	path = AdvantageKit
+	url = https://github.com/KennanHunter/AdvantageKit
